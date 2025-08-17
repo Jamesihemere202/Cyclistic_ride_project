@@ -1,1 +1,3 @@
+<img width="1302" height="718" alt="image" src="https://github.com/user-attachments/assets/28d762b5-2e0e-4d56-b7c1-b96cdda891ad" />
+
 This report provides a comprehensive overview of a cycling company, distinguishing between 'casual' riders and 'member' riders. Key insights indicate a significantly higher sum of rides by members (over 3.6 million) compared to casual riders (around 2.1 million). While members also contribute to a larger total ride length, the average ride length overall is approximately 239.25 kilometres, with a total of 6 million rides recorded. The data also highlights trends across months, days of the week, and even by rideable type (classic vs. electric bikes), offering valuable insights into rider behaviour and preferences."
